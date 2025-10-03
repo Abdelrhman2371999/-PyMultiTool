@@ -103,4 +103,5 @@ multi_functional_app/
 ---
 
 ## 👨‍💻 Author
-Developed as a **Multi-Functional Educational App** combining Python GUI and external libraries.
+Developed by **Abdelrhman Hamed** as a **Multi-Functional Educational App** combining Python GUI and external libraries.
+
