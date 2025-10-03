@@ -8,6 +8,7 @@ import time
 from PIL import Image, ImageTk
 import os
 
+
 class MultiFunctionalApp:
     def __init__(self, root):
         self.root = root
