@@ -48,15 +48,6 @@ pip install tkcalendar==1.6.1
 
 ---
 
-### 4. MCQ Quiz
-- A simple multiple-choice quiz on **Tkinter & Python basics**.
-- Features:
-  - Previous / Next navigation
-  - Final Score calculation
-  - **Text-to-Speech** announcement of results
-
----
-
 ## 🖼️ GUI Layout
 The app uses **Tkinter’s Notebook (Tabs)** for multiple sections:
 - **Tab 1:** Data Form
