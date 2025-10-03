@@ -53,6 +53,9 @@ python revision.py
 ├── MultiFunctionalApp.md  # Documentation file (optional)
 ├── README.md              # Project readme (shown on GitHub)
 ```
+---
+## PyMultiTool GitHub Repository Navigation
+<img width="4785" height="10836" alt="NotebookLM Mind Map (2)" src="https://github.com/user-attachments/assets/24f619bb-49de-4f69-b05b-39333013e866" />
 
 ---
 
